@@ -21,19 +21,19 @@
          restoranla mesajlaşma, yorum ve tavsiye bırakma gibi interaktif özellikler de sunmaktadır.
 ---
 ### Sosyal Ağ veya Topluluk Platformu
-- **Facebook:**
+- **Facebook:** (www.facebook.com) - Düşüncelerinizi, fotoğraflarınızı ve videolarınızı arkadaşlarınızla ve ailenizle paylaşabileceğiniz sosyal bir platform.
      - **Kapsam:** Facebook, insanların etkileşim kurabildiği, sosyalleşebildiği ve içerik paylaşabildiği bir sosyal ağ platformudur.
      - **Amaçlar:** Facebook'un temel amacı insanları birbirine bağlamak ve onların arkadaşları, aileleri ve topluluklarıyla bağlantıda kalmalarına yardımcı olmaktır.
      - **Ölçek:** Facebook, dünya çapında milyonlarca insan tarafından kullanılan küresel bir platformdur.
      - **Kullanılan yapılar:** Facebook'un bir kayıt ve giriş sisteminin yanı sıra mesajlaşma, profil oluşturma, gruplara ve sayfalara katılma ve fotoğraf ve video gibi içerikleri 
          paylaşma özellikleri vardır.
-- **Twitter:**
+- **Twitter:** (www.twitter.com) - Düşüncelerinizi ifade edebileceğiniz ve başkalarının haberlerini ve ilgi alanlarını takip edebileceğiniz bir anlık iletişim ve mesajlaşma platformu.
      - **Kapsam:** Twitter, kullanıcıların düşüncelerini ifade edebildikleri ve başkalarının haberlerini ve ilgi alanlarını takip edebildikleri bir anlık iletişim ve mesajlaşma platformudur.
      - **Amaçlar:** Twitter'ın temel amacı, kullanıcıların bilgi paylaşmasını ve başkalarıyla hızlı ve kolay bir şekilde bağlantı kurmasını sağlamaktır.
      - **Ölçek:** Twitter dünya çapında milyonlarca kişi tarafından kullanılan küresel bir platformdur.
      - **Kullanılan yapılar:** Twitter'ın bir kayıt ve giriş sisteminin yanı sıra mesaj (tweet) gönderme, diğer kullanıcılara abone olma, retweetleme (yeniden tweetleme) ve konuları 
        kategorize etmek için hashtag kullanma özellikleri vardır.
-- **Instagram:**
+- **Instagram:** (www.instagram.com) - Anlarınızı paylaşabileceğiniz ve başkalarıyla etkileşime geçebileceğiniz bir fotoğraf ve video paylaşım platformu.
      - **Kapsam:** Instagram, kullanıcıların anlarını paylaşabilecekleri ve başkalarıyla etkileşime geçebilecekleri bir fotoğraf ve video paylaşım platformudur.
      - **Amaçlar:** Instagram'ın temel amacı, kullanıcılara fotoğraflar ve videolar aracılığıyla kendilerini görsel olarak ifade etme ve başkalarıyla etkileşim kurma fırsatı sunmaktır.
      - **Ölçek:** Instagram dünya çapında milyonlarca kişi tarafından kullanılan küresel bir platformdur.
