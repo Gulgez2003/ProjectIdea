@@ -39,3 +39,19 @@
      - **Ölçek:** Instagram dünya çapında milyonlarca kişi tarafından kullanılan küresel bir platformdur.
      - **Kullanılan yapılar:** Instagram'ın bir kayıt ve giriş sisteminin yanı sıra fotoğraf ve video gönderme, diğer kullanıcılara abone olma, yorum yapma özellikleri vardır.
 ---
+### Blog veya İçerik Yönetim Sistemi
+- **Intercontinental GT challenge:** (www.intercontinentalgtchallenge.com) - GT Challenge Kıtalararası Motor Yarışları Serisi hakkında tüm bilgileri bulabilir ve diğer motor sporları hayranlarıyla iletişim kurabilirsiniz.
+     - **Kapsam:** Kıtalararası GT Challenge motor yarışları serisini içermektedir.
+     - **Amaçlar:** Dünyanın her yerinden motor sporları hayranlarını bir araya getirmek için yarış bilgileri, programlar, sonuçlar ve fotoğraflar sağlamaktır.
+     - **Ölçek:** Bu proje, dünyanın dört bir yanındaki motor sporları meraklılarının ilgisini çekerek küresel bir erişime sahiptir.
+     - **Kullanılan yapılar:** Sitede ayrıca giriş sistemini, mağaza girişini ve sohbet gibi interaktif özellikleri ve daha fazlasını kullanabilirsiniz.
+- **FIA WEC:** (www.fiawec.com) - Bu sitede Dünya Dayanıklılık Şampiyonası hakkında tüm bilgileri, yarış programını, sonuçları, haberleri ve çok daha fazlasını bulabilirsiniz. Bu site tüm motor sporları hayranları içindir ve sizi dayanıklılık yarışları dünyasındaki en son olaylardan haberdar eder.
+     - **Kapsam:** Dünya Dayanıklılık Şampiyonası, yarış programları, sonuçlar ve haberler hakkında bilgi sağlamayı içermektedir.
+     - **Amaçlar:** Motor sporları hayranları için bir bilgi kaynağı olmak ve onlara dayanıklılık yarışları dünyasındaki güncel olaylara erişim sağlamaktır.
+     - **Ölçek:** Site küreseldir ve dünyanın her yerinden hayranlar için bilgi ve etkileşim fırsatları sunmaktadır.
+     - **Kullanılan yapılar:** Sitenin yapısı, giriş sistemleri, mağaza girişi ve kullanıcıların birbirleriyle iletişim ve etkileşim kurmasına olanak tanıyan sohbet gibi etkileşimli özellikler içermektedir.
+- **Formula 1:** (www.formula1.com) - Formula 1 Dünya Turing Otomobil Şampiyonası hakkında bilgi ve haber kaynağı.
+     - **Kapsam:** Formula 1 Dünya Şampiyonası, yarış programları, sonuçlar ve haberler hakkında bilgi sağlanması yer almaktadır.
+     - **Amaçlar:** Motor sporları hayranları için bir bilgi kaynağı olmak ve Formula 1 yarış dünyasındaki güncel olaylara erişimlerini sağlamaktır.
+     - **Ölçek:** Formula 1 web sitesi küreseldir ve dünyanın her yerinden hayranlar için bilgi ve etkileşim fırsatları sunar.
+     - **Kullanılan yapılar:** Sitenin yapısı, kullanıcıların birbirleriyle iletişim ve etkileşim kurmalarına olanak tanıyan oturum açma sistemleri, mağaza oturum açma ve sohbet gibi etkileşimli özellikleri içermektedir.
