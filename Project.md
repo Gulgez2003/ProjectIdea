@@ -1,3 +1,4 @@
+### Farklı yarış kategorileri hakkında bilgi sağlayan bir web sitesi
 - **Kapsam:** Proje, formula, GT, ralli ve diğerleri dahil olmak üzere farklı yarış türleri hakkında kapsamlı bilgi sağlamayı amaçlayabilir. Kapsam, haberleri, yarış programlarını, sonuçları, sürücüler ve uzmanlarla röportajları içerebilir.
 
 - **Amaçlar:** Projenin ana amaçları arasında sürücüleri ve taraftarları eğitmek ve bilgilendirmek, bir yarış topluluğu oluşturmak, pistte güvenliği teşvik etmek ve motor sporlarının gelişimini desteklemek yer alabilir.
