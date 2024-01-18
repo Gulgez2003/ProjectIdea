@@ -15,3 +15,9 @@
         sistemine sahiptir. Platform ayrıca ev sahipleri ve misafirler arasında mesajlaşma gibi etkileşimli özelliklerin yanı sıra yorum ve tavsiye bırakma olanağı da sağlar.
     - **OpenTable** ([www.opentable.com](https://www.opentable.com)) - Bu popüler bir restoran masa rezervasyon sistemidir. Kullanıcıların öğle yemeği, akşam yemeği veya diğer etkinlikler 
         için kolayca rezervasyon yapmalarını sağlar.
+- **OpenTable** (www.opentable.com) - Bu popüler bir restoran masa rezervasyon sistemidir. Kullanıcıların öğle yemeği, akşam yemeği veya diğer etkinlikler için kolayca rezervasyon yapmalarını sağlar.
+     - **Kapsam:** OpenTable, çevrimiçi restoran rezervasyonları için bir platform sağlar.
+     - **Hedefler:** OpenTable'ın ana hedefi, restoran rezervasyonlarını kullanıcılar için daha kolay ve rahat hale getirmektir.
+     - **Kapsam:** OpenTable, dünya çapında restoran rezervasyonları sağlayan küresel bir platformdur.
+     - **Kullanılan yapılar:** OpenTable'da bir kayıt ve giriş sisteminin yanı sıra restoran arama, tarih ve saat seçme ve masa rezervasyonu yapma olanağı vardır. Platform ayrıca 
+         restoranla mesajlaşma, yorum ve tavsiye bırakma gibi interaktif özellikler de sunmaktadır.
