@@ -7,7 +7,7 @@
 
 - **Kullanılan yapılar:** Kullanıcıların hesap oluşturabilmeleri ve favori yarışları kaydetme veya tartışmalara katılma gibi ek özelliklere erişebilmeleri için siteye bir giriş sistemi eklenecek. Kullanıcıların birbirleriyle iletişim kurabilmeleri için sohbet odası veya forum gibi interaktif özellikler de eklenebilir.
 ---
-- **Added**
+### Added
 - **Sanal Yarış:** Kullanıcıların kendi takımlarını oluşturup yarışabilecekleri gerçek yarışların sanal versiyonlarını oluşturun.
 - **Taraftar Ligleri:** Kullanıcıların kendi yarış liglerini oluşturmalarına ve arkadaşlarını yarışmaya davet etmelerine izin verin. İstatistikleri tutun ve başarılı katılımcılar için ödüller sağlayın.
 - **Tahminler ve Bahis Türleri:** Kullanıcılara yarışların sonuçları hakkında tahminlerde bulunma olanağı tanıyın. Motor sporları dünyasındaki farklı etkinlikler için bir bahis türleri sistemi sağlayın.
